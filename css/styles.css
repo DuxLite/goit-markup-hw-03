@@ -186,6 +186,10 @@ a {
   width: calc((100% - 72px) / 4);
 }
 
+.subtitle-distance {
+  margin-bottom: 8px;
+}
+
 .fuatures-subtitle {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
