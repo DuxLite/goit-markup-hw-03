@@ -33,6 +33,7 @@ a {
 .header-container {
   display: flex;
   align-items: center;
+  padding: 0 15px;
 }
 
 .header-nav {
@@ -249,6 +250,7 @@ a {
 }
 
 .footer {
+  padding: 100px 0;
   background: #2e2f42;
 }
 
