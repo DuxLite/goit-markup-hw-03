@@ -172,7 +172,7 @@ a {
   overflow: hidden;
 }
 
-.visually-hidden-distance {
+.taste-subtitle-distance {
   margin-bottom: 8px;
 }
 
@@ -250,10 +250,6 @@ a {
   color: #2e2f42;
 }
 
-.taste-subtitle-distance {
-  margin-bottom: 8px;
-}
-
 .taste-position {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
@@ -301,6 +297,10 @@ a {
 
 .portfolio-img {
   display: block;
+}
+
+.selection-subtitle {
+  margin-bottom: 8px;
 }
 
 .portfolio-subtitle {
