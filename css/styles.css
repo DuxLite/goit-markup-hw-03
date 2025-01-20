@@ -170,6 +170,9 @@ a {
   clip-path: inset(100%);
   clip: rect(0 0 0 0);
   overflow: hidden;
+}
+
+.visually-hidden {
   margin-bottom: 8px;
 }
 
