@@ -185,7 +185,9 @@ a {
   background-color: #FFFFFF
 }
 
-.taste-image {}
+.taste-image {
+  display: block;
+}
 
 .taste-subtitle {
   font-family: "Roboto", sans-serif;
