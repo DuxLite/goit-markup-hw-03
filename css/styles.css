@@ -256,7 +256,10 @@ a {
   color: #434455;
 }
 
-.portfolio {}
+.portfolio {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
 
 .portfolio-title {
   font-family: "Roboto", sans-serif;
@@ -269,9 +272,17 @@ a {
   text-transform: capitalize;
 }
 
-.portfolio-list {}
+.portfolio-list {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 24px;
+  row-gap: 48px;
+}
 
-.portfolio-item {}
+.portfolio-item {
+  margin-right: 0;
+  margin-bottom: 0;
+}
 
 .portfolio-img {
   display: block;
