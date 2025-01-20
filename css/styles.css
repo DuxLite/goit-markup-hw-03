@@ -219,14 +219,16 @@ a {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
-  text-transform: capitalize
+  text-transform: capitalize;
 }
 
 .portfolio-list {}
 
 .portfolio-item {}
 
-.portfolio-img {}
+.portfolio-img {
+  display: block;
+}
 
 .portfolio-subtitle {
   font-family: "Roboto", sans-serif;
