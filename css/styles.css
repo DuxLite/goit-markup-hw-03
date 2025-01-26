@@ -11,8 +11,21 @@ ol {
   padding: 0;
 }
 
-h1 h2 h3 h4 h5 h6 p {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
   margin: 0;
+}
+
+ul,
+ol {
+  list-style-type: none;
+  margin: 0;
+  padding-left: 0;
 }
 
 a {
@@ -21,9 +34,8 @@ a {
 
 .container {
   max-width: 1158px;
-  padding-right: 15px;
-  padding-left: 15px;
-  margin: 0 auto;
+  padding: 0 15px;
+  margin: auto;
 }
 
 .page-header {
